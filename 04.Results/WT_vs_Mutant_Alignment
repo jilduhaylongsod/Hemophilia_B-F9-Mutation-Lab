@@ -1,0 +1,14 @@
+WT vs Documented Mutant F9 Protein Sequence Comparison
+======================================================= 
+Gene: F9 
+Reference transcript: NM_000133.4 
+Reference protein: NP_000124.1 
+Documented variant: NM_000133.4(F9):c.676C>T 
+Protein consequence: NP_000124.1:p.Arg226Trp 
+Mutation type: Missense mutation 
+WT protein length: 461 amino acids 
+Mutant protein length: 461 amino acids 
+WT sequence around mutation: FNDFTRVVGGEDAKPGQFPW 
+Mutant sequence around mutation: FNDFTWVVGGEDAKPGQFPW 
+The WT and mutant proteins are identical up to amino acid position 225. At position 226, arginine (R) is replaced by tryptophan (W). 
+The reading frame and protein length remain unchanged, and no premature stop codon is produced. 
